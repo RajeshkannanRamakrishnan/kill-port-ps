@@ -12,6 +12,13 @@
     "node-netstat": "1.6.0",
     "shell-exec": "1.0.2"
   },
+  "keywords": [
+    "kill",
+    "port",
+    "process",
+    "kill-port",
+    "kill-port-process"
+  ],
   "bin": {
     "kill-port-ps": "./bin.js"
   }
